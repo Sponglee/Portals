@@ -8,6 +8,7 @@ TagManager:
   - Beam
   - BeamPositioner
   - Skeleton
+  - Tower
   layers:
   - Default
   - TransparentFX
